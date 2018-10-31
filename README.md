@@ -3,4 +3,4 @@
 
 | Type | Topic | # of Sub topics | # of Sections | Progress |
 |------|-------|-----------------|---------------|----------|
-| Review | Algebra Trig | 3 | 26 | ![](https://progressed.io/bar/23) |
+| Review | Algebra Trig | 3 | 26 | ![](http://progressed.io/bar/23) |
