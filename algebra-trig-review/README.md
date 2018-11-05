@@ -24,3 +24,24 @@
 | Solving Systems of Equations |  |  |  |  |  |  |
 | Solving Inequalities |  |  |  |  |  |  |
 | Absolute Value Equations and Inequalities |  |  |  |  |  |  |
+
+# Trigonometry
+
+| Sub Section | # of Questions | 1 | 2 | 3 | 4 | 5 |
+|-------------|----------------|---|---|---|---|---|
+| Trig Function Evaluation |  |  |  |  |  |  |
+| Graphs of Trig Functions |  |  |  |  |  |  |
+| Trig Formulas |  |  |  |  |  |  |
+| Solving Trig Equations |  |  |  |  |  |  |
+| Inverse Trig Functions |  |  |  |  |  |  |
+
+# Exponentials & Logarithms
+
+| Sub Section | # of Questions | 1 | 2 | 3 | 4 | 5 |
+|-------------|----------------|---|---|---|---|---|
+| Basic Exponential Functions |  |  |  |  |  |  |
+| Basic Logarithm Functions |  |  |  |  |  |  |
+| Logarithm Properties |  |  |  |  |  |  |
+| Simplifying Logarithms |  |  |  |  |  |  |
+| Solving Exponential Equations |  |  |  |  |  |  |
+| Solving Logarithm Equations |  |  |  |  |  |  |
