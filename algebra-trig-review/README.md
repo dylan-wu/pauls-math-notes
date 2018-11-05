@@ -6,7 +6,7 @@
 | Trigonometry | 5 | ![](http://progressed.io/bar/60) |
 | Exponentials & Logarithms | 6 | ![](http://progressed.io/bar/0) |
 
-# Algebra
+# 1. Algebra
 
 | Sub Section | # of Questions | 1 | 2 | 3 | 4 | 5 |
 |-------------|----------------|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | 13. Solving Inequalities |  |  |  |  |  |  |
 | 14. Absolute Value Equations and Inequalities |  |  |  |  |  |  |
 
-# Trigonometry
+# 2. Trigonometry
 
 | Sub Section | # of Questions | 1 | 2 | 3 | 4 | 5 |
 |-------------|----------------|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | 4. Solving Trig Equations |  |  |  |  |  |  |
 | 5. Inverse Trig Functions |  |  |  |  |  |  |
 
-# Exponentials & Logarithms
+# 3. Exponentials & Logarithms
 
 | Sub Section | # of Questions | 1 | 2 | 3 | 4 | 5 |
 |-------------|----------------|---|---|---|---|---|
