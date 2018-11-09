@@ -8,6 +8,10 @@
 
 # 2. Trigonometry
 
+![image](https://user-images.githubusercontent.com/6586811/48270390-8e65c500-e3ff-11e8-96e7-ef4ef2e171e2.png)
+
+![image](https://user-images.githubusercontent.com/6586811/48270363-8148d600-e3ff-11e8-90ab-32423c1b6dc7.png)
+
 ![image](https://user-images.githubusercontent.com/6586811/47880576-94e9b080-ddf1-11e8-9c2a-0f9251061343.png)
 
 # 3. [Exponentials & Logarithms](http://tutorial.math.lamar.edu/Extras/AlgebraTrigReview/ExpLogIntro.aspx)
