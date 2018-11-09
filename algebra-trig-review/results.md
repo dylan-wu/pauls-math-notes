@@ -2,6 +2,10 @@
 
 # 1. Algebra
 
+![image](https://user-images.githubusercontent.com/6586811/48271103-2f08b480-e401-11e8-8eb5-49bced37453c.png)
+
+![image](https://user-images.githubusercontent.com/6586811/48271088-2617e300-e401-11e8-88c1-a61a5838e952.png)
+
 ![image](https://user-images.githubusercontent.com/6586811/47880551-84393a80-ddf1-11e8-8371-b5df8664bfa5.png)
 
 ![image](https://user-images.githubusercontent.com/6586811/47815629-dcebd300-dd1e-11e8-8810-af38adb0add6.png)
