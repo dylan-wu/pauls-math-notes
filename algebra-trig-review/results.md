@@ -8,6 +8,8 @@
 
 # 2. Trigonometry
 
+![image](https://user-images.githubusercontent.com/6586811/48270866-aa1d9b00-e400-11e8-8185-628923219266.png)
+
 ![image](https://user-images.githubusercontent.com/6586811/48270390-8e65c500-e3ff-11e8-96e7-ef4ef2e171e2.png)
 
 ![image](https://user-images.githubusercontent.com/6586811/48270363-8148d600-e3ff-11e8-90ab-32423c1b6dc7.png)
