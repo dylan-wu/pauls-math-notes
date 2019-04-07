@@ -2,7 +2,7 @@
 
 | Type | 1 | 2 | 3 | 4 | 5 |
 |------|---|---|---|---|---|
-| Example |  |  |  |  |  |
+| Example | ![](http://progressed.io/bar/44?title=4/9) <br> 2019-04-07 |  |  |  |  |
 | Practice | ![](http://progressed.io/bar/44?title=4/9) <br> 2019-04-07 |  |  |  |  |
 | Assignment |  |  |  |  |  |
 
