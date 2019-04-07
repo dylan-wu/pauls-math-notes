@@ -3,7 +3,7 @@
 | Type | 1 | 2 | 3 | 4 | 5 |
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
-| Practice |  |  |  |  |  |
+| Practice | ![](http://progressed.io/bar/44?title=4/9) <br> 2019-04-07 |  |  |  |  |
 | Assignment |  |  |  |  |  |
 
 ## 2. Integrals Involving Trig Functions
