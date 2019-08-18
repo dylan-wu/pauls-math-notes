@@ -4,7 +4,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 2. Inverse Functions 
 
@@ -12,7 +11,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 3. Trig Functions 
 
@@ -20,7 +18,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 4. Solving Trig Equations 
 
@@ -28,7 +25,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 5. Solving Trig Equations with Calculators, Part I 
 
@@ -36,7 +32,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 6. Solving Trig Equations with Calculators, Part II 
 
@@ -44,7 +39,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 7. Exponential Functions
 
@@ -52,7 +46,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 8. Logarithm Functions
 
@@ -60,7 +53,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 9. Exponential and Logarithm Equations 
 
@@ -68,7 +60,6 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
 
 ## 10. Common Graphs
 
@@ -76,4 +67,3 @@
 |------|---|---|---|---|---|
 | Example |  |  |  |  |  |
 | Practice |  |  |  |  |  |
-| Assignment |  |  |  |  |  |
