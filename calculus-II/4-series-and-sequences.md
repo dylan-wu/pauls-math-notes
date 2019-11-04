@@ -32,12 +32,12 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-| 6 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 6 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
 
 ## 4-2 More On Sequences
 
@@ -48,12 +48,12 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-| 6 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 6 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
 
 ## 4-3 Series - Basics
 
@@ -63,11 +63,11 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
 
 ## 4-4 Convergence/Divergence of Series
 
@@ -81,12 +81,12 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-| 6 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 6 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
 
 ## 4-5 Special Series
 
@@ -101,13 +101,13 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-| 6 |  |  |  |  |  |
-| 7 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 6 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 7 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
 
 ## 4-6 Integral Test
 
@@ -119,11 +119,11 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-04 |  |  |  |  |
 
 ## 4-7 Comparison Test/Limit Comparison Test
 
