@@ -137,16 +137,16 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-| 6 |  |  |  |  |  |
-| 7 |  |  |  |  |  |
-| 8 |  |  |  |  |  |
-| 9 |  |  |  |  |  |
-| 10 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 6 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 7 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 8 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 9 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 10 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
 
 ## 4-8 Alternating Series Test
 
@@ -159,11 +159,11 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
 
 ## 4-9 Absolute Convergence
 
@@ -173,9 +173,9 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
 
 ## 4-10 Ratio Test
 
@@ -190,11 +190,11 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-07 |  |  |  |  |
 
 ## 4-11 Root Test
 
