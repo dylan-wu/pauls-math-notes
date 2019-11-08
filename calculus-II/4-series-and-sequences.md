@@ -221,10 +221,10 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
 
 ## 4-14 Power Series
 
@@ -238,11 +238,11 @@
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
+| 1 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 2 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 3 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 4 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
+| 5 | :white_check_mark: <br> 2019-11-08 |  |  |  |  |
 
 ## 4-15 Power Series and Functions
 
