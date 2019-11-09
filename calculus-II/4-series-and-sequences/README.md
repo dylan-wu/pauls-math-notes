@@ -281,9 +281,6 @@
 | 4 | :white_check_mark: |  |  |  |  |
 | 5 | :white_check_mark: |  |  |  |  |
 | 6 | :x: |  |  |  |  |
-| 7 | :x: |  |  |  |  |
-| 8 | :x: |  |  |  |  |
-| 9 | :x: |  |  |  |  |
 
 ## 4-17 Applications of Series
 
