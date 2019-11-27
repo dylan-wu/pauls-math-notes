@@ -1,5 +1,7 @@
 
+## Log
 
+- 2019-11-27 Create cornell notes for difficult points, finish 2019-11-27 1 Hour
 
 | Unit | 1 | 2 | 3 | 4 | 5 |
 |------|---|---|---|---|---|
