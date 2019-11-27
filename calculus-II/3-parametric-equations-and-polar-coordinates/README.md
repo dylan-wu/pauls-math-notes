@@ -1,17 +1,17 @@
 
 | Unit | 1 | 2 | 3 | 4 | 5 |
 |------|---|---|---|---|---|
-| Parametric Equations and Curves |  |  |  |  |  |
-| Tangents with Parametric Equations |  |  |  |  |  |
-| Area with Parametric Equations |  |  |  |  |  |
-| Arc Length with Parametric Equations |  |  |  |  |  |
-| Surface Area with Parametric Equations |  |  |  |  |  |
-| Polar Coordinates |  |  |  |  |  |
-| Tangents with Polar Coordinates |  |  |  |  |  |
-| Area with Polar Coordinates |  |  |  |  |  |
-| Arc Length with Polar Coordinates |  |  |  |  |  |
-| Surface Area with Polar Coordinates |  |  |  |  |  |
-| Arc Length and Surface Area Revisited |  |  |  |  |  |
+| 1. Parametric Equations and Curves |  |  |  |  |  |
+| 2. Tangents with Parametric Equations |  |  |  |  |  |
+| 3. Area with Parametric Equations |  |  |  |  |  |
+| 4. Arc Length with Parametric Equations |  |  |  |  |  |
+| 5. Surface Area with Parametric Equations |  |  |  |  |  |
+| 6. Polar Coordinates |  |  |  |  |  |
+| 7. Tangents with Polar Coordinates |  |  |  |  |  |
+| 8. Area with Polar Coordinates |  |  |  |  |  |
+| 9. Arc Length with Polar Coordinates |  |  |  |  |  |
+| 10. Surface Area with Polar Coordinates |  |  |  |  |  |
+| 11. Arc Length and Surface Area Revisited |  |  |  |  |  |
 
 ## 3-1 Parametric Equations and Curves
 
