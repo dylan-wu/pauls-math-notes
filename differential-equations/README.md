@@ -1,4 +1,8 @@
 
+| Date | Type | Result |
+|------|------|--------|
+| 2019-11-30 | Assessment | ![](https://mdi1.netlify.com/.netlify/functions/bar/77?title=10/13) |
+
 ## 1-1 Definitions
 
 | Example | 1 | 2 | 3 | 4 | 5 |
