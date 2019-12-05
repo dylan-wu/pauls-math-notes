@@ -12,9 +12,9 @@
 | 3 | :white_check_mark: <br> 2019-11-23 |  |  |  |  |
 | 4 | :white_check_mark: <br> 2019-11-23 |  |  |  |  |
 | 5 | :white_check_mark: <br> 2019-11-23 |  |  |  |  |
-| 6 | :x: <br> 2019-11-23 |  |  |  |  |
+| 6 | :x: <br> 2019-11-23 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 | 7 | :white_check_mark: <br> 2019-11-23 |  |  |  |  |
-| 8 | :x: <br> 2019-11-23 |  |  |  |  |
+| 8 | :x: <br> 2019-11-23 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 
 ## 1-2 Direction Fields
 
