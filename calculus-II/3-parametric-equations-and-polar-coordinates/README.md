@@ -34,27 +34,27 @@
 | 1 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 2 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 3 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
-| 4 | :x: <br> 2019-11-20 |  |  |  |  |
-| 5 | :x: <br> 2019-11-20 |  |  |  |  |
+| 4 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 5 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
-| 1 | :x: <br> 2019-11-20 |  |  |  |  |
+| 1 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 | 2 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 3 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 4 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 5 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 6 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
-| 7 | :x: <br> 2019-11-20 |  |  |  |  |
+| 7 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 | 8 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
 | 9 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
-| 10 | :x: <br> 2019-11-20 |  |  |  |  |
-| 11 | :x: <br> 2019-11-20 |  |  |  |  |
+| 10 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 11 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 | 12 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
-| 13 | :x: <br> 2019-11-20 |  |  |  |  |
-| 14 | :x: <br> 2019-11-20 |  |  |  |  |
-| 15 | :x: <br> 2019-11-20 |  |  |  |  |
-| 16 | :x: <br> 2019-11-20 |  |  |  |  |
+| 13 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 14 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 15 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 16 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 
 ## 3-7 Tangents with Polar Coordinates
 
@@ -72,18 +72,18 @@
 | Example | 1 | 2 | 3 | 4 | 5 |
 |---------|---|---|---|---|---|
 | 1 | :white_check_mark: <br> 2019-11-20 |  |  |  |
-| 2 | :x: <br> 2019-11-20 |  |  |  |
+| 2 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |
 | 3 | :white_check_mark: <br> 2019-11-20 |  |  |  |
 | 4 | :white_check_mark: <br> 2019-11-20 |  |  |  |
 
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
 | 1 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
-| 2 | :x: <br> 2019-11-20 |  |  |  |  |
-| 3 | :x: <br> 2019-11-20 |  |  |  |  |
-| 4 | :x: <br> 2019-11-20 |  |  |  |  |
-| 5 | :x: <br> 2019-11-20 |  |  |  |  |
-| 6 | :x: <br> 2019-11-20 |  |  |  |  |
+| 2 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 3 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 4 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 5 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 6 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 
 ## 3-9 Arc Length With Polar Coordinates
 
@@ -94,8 +94,8 @@
 | Problems | 1 | 2 | 3 | 4 | 5 |
 |----------|---|---|---|---|---|
 | 1 | :white_check_mark: <br> 2019-11-20 |  |  |  |  |
-| 2 | :x: <br> 2019-11-20 |  |  |  |  |
-| 3 | :x: <br> 2019-11-20 |  |  |  |  |
+| 2 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
+| 3 | :x: <br> 2019-11-20 | :white_check_mark: <br> 2019-12-05 |  |  |  |
 
 ## 3-10 Surface Area with Polar Coordinates
 
