@@ -1,9 +1,9 @@
 Section,Type,Index,Status
-1,Example,1,1
-1,Example,2,1
-1,Example,3,1
-1,Example,4,1
-3,Example,1,1
-3,Example,2,1
-5,Example,1,1
-6,Example,2,1
+1 Arc Length,Example,1,1
+1 Arc Length,Example,2,1
+1 Arc Length,Example,3,1
+1 Arc Length,Example,4,1
+3 Center of Mass,Example,1,1
+3 Center of Mass,Example,2,1
+5 Probability,Example,1,1
+5 Probability,Example,2,1
